@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'irvine',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/irvine',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
